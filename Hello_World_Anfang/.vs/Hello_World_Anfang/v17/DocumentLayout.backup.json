@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\Hello_World_Anfang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B39D1F-BDFD-4537-946E-86DD346A8E5D}|Hello_World_Anfang\\Hello_World_Anfang.vcxproj|C:\\Users\\Max Jaekel\\source\\repos\\Hello_World_Anfang\\Hello_World_Anfang\\Hello_World_Anfang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33B39D1F-BDFD-4537-946E-86DD346A8E5D}|Hello_World_Anfang\\Hello_World_Anfang.vcxproj|solutionrelative:Hello_World_Anfang\\Hello_World_Anfang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello_World_Anfang.cpp",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\Hello_World_Anfang\\Hello_World_Anfang\\Hello_World_Anfang.cpp",
+              "RelativeDocumentMoniker": "Hello_World_Anfang\\Hello_World_Anfang.cpp",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\Hello_World_Anfang\\Hello_World_Anfang\\Hello_World_Anfang.cpp",
+              "RelativeToolTip": "Hello_World_Anfang\\Hello_World_Anfang.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T11:16:17.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
