@@ -11,5 +11,5 @@ int main()
    cout << "Gebe den zweiten Wert ein: ";
    cin >> eingabe2;
    ergebnis = eingabe1 + eingabe2;
-   cout << ergebnis;
+   cout << "Das Ergebnis lautet: " << ergebnis;
 }
