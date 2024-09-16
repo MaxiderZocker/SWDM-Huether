@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\Fittnes_Gebuehrenrechner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE97F4D-85E2-4DB6-9FCC-039BA4306C63}|Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.vcxproj|C:\\Users\\Max Jaekel\\source\\repos\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE97F4D-85E2-4DB6-9FCC-039BA4306C63}|Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.vcxproj|solutionrelative:Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fittnes_Gebuehrenrechner.cpp",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp",
+              "RelativeDocumentMoniker": "Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp",
+              "RelativeToolTip": "Fittnes_Gebuehrenrechner\\Fittnes_Gebuehrenrechner.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T10:10:07.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
