@@ -8,14 +8,16 @@ int main()
 {
     int kategorie;
     double anzahl, preis, rabatt, rabattpreis, rabatteur, netto, brutto, mwst;
-    cout << "Geben Sie die anzahl der Produkte ein: ";
-    cin >> anzahl;
-    cout << "Geben sie den Einzelpreis des Produktes an: ";
-    cin >> preis;
-    cout << "Geben sie Ihre Kategorie an: ";
-    cin >> kategorie;
+    string nochmal;
+    do {
+        cout << "Geben Sie die anzahl der Produkte ein: ";
+        cin >> anzahl;
+        cout << "Geben sie den Einzelpreis des Produktes an: ";
+        cin >> preis;
+        cout << "Geben sie Ihre Kategorie an: ";
+        cin >> kategorie;
 
-    switch (kategorie) {
+        switch (kategorie) {
 
         case 1:
             rabatt = 10;
@@ -40,14 +42,16 @@ int main()
         default:
             rabatt = 0;
             break;
-    }
+        }
 
-    netto = preis * anzahl;
-    rabattpreis = netto - netto * (rabatt / 100);
-    rabatteur = netto * (rabatt / 100);
-    mwst = rabattpreis * 0.19;
-    brutto = rabattpreis + mwst;
+        netto = preis * anzahl;
+        rabattpreis = netto - netto * (rabatt / 100);
+        rabatteur = netto * (rabatt / 100);
+        mwst = rabattpreis * 0.19;
+        brutto = rabattpreis + mwst;
 
-    cout << "Warenwert: " << netto << " Eur, Rabatt: " << rabatteur << " Eur, Netto: " << rabattpreis << " Eur, Mwst: " << mwst << " Eur, Brutto: " << brutto << " Eur";
-    
+        cout << "Warenwert: " << netto << " Eur, Rabatt: " << rabatteur << " Eur, Netto: " << rabattpreis << " Eur, Mwst: " << mwst << " Eur, Brutto: " << brutto << " Eur";
+        cout << "/nMoechtst du das Programm nochmal starten? (j/n)n ";
+        cin >> nochmal;
+    } while (nochmal == "j");
 }
