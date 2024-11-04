@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\Benutzeranmeldung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7869D-75B5-4196-92B5-35CD78A69475}|Benutzeranmeldung\\Benutzeranmeldung.vcxproj|C:\\Users\\Max Jaekel\\source\\repos\\Benutzeranmeldung\\Benutzeranmeldung\\Benutzeranmeldung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88D7869D-75B5-4196-92B5-35CD78A69475}|Benutzeranmeldung\\Benutzeranmeldung.vcxproj|solutionrelative:Benutzeranmeldung\\Benutzeranmeldung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Benutzeranmeldung.cpp",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\Benutzeranmeldung\\Benutzeranmeldung\\Benutzeranmeldung.cpp",
+              "RelativeDocumentMoniker": "Benutzeranmeldung\\Benutzeranmeldung.cpp",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\Benutzeranmeldung\\Benutzeranmeldung\\Benutzeranmeldung.cpp",
+              "RelativeToolTip": "Benutzeranmeldung\\Benutzeranmeldung.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T10:26:20.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
