@@ -1,0 +1,5 @@
+﻿  Geometrierechner.cpp
+C:\Users\Max Jaekel\source\repos\Geometrierechner\Geometrierechner\Geometrierechner.cpp(11,12): warning C4101: "flaeche": Unreferenzierte lokale Variable
+C:\Users\Max Jaekel\source\repos\Geometrierechner\Geometrierechner\Geometrierechner.cpp(10,23): warning C4101: "hoehe": Unreferenzierte lokale Variable
+C:\Users\Max Jaekel\source\repos\Geometrierechner\Geometrierechner\Geometrierechner.cpp(11,21): warning C4101: "volumen": Unreferenzierte lokale Variable
+  Geometrierechner.vcxproj -> C:\Users\Max Jaekel\source\repos\Geometrierechner\x64\Debug\Geometrierechner.exe
