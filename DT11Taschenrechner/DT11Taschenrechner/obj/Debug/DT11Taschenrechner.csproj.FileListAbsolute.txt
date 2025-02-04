@@ -1,0 +1,10 @@
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\bin\Debug\DT11Taschenrechner.exe.config
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\bin\Debug\DT11Taschenrechner.exe
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\bin\Debug\DT11Taschenrechner.pdb
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.Form1.resources
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.Properties.Resources.resources
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.exe
+C:\Users\Max Jaekel\source\repos\DT11Taschenrechner\DT11Taschenrechner\obj\Debug\DT11Taschenrechner.pdb
