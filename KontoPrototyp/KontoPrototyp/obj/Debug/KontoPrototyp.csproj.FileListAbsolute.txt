@@ -1,0 +1,9 @@
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\bin\Debug\KontoPrototyp.exe.config
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\bin\Debug\KontoPrototyp.exe
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\bin\Debug\KontoPrototyp.pdb
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.csproj.AssemblyReference.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.Properties.Resources.resources
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.csproj.GenerateResource.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.csproj.CoreCompileInputs.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.exe
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.pdb

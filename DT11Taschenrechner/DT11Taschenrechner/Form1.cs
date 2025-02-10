@@ -16,7 +16,11 @@ namespace DT11Taschenrechner
         {
             InitializeComponent();
         }
-
+        public static double Evaluate(string expression)
+        {
+            DataTable table = new DataTable();
+            return Convert.ToDouble(table.Compute(expression, null));
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             textBoxAnzeige.Text = textBoxAnzeige.Text + "1";
@@ -69,7 +73,7 @@ namespace DT11Taschenrechner
 
         private void button11_Click(object sender, EventArgs e)
         {
-            textBoxAnzeige.Text = textBoxAnzeige.Text + ",";
+            textBoxAnzeige.Text = textBoxAnzeige.Text + ".";
         }
 
         private void button13_Click(object sender, EventArgs e)
@@ -89,7 +93,7 @@ namespace DT11Taschenrechner
 
         private void button16_Click(object sender, EventArgs e)
         {
-            textBoxAnzeige.Text = textBoxAnzeige.Text + " % ";
+            textBoxAnzeige.Text = textBoxAnzeige.Text + " / ";
         }
 
         private void button17_Click(object sender, EventArgs e)
@@ -97,7 +101,16 @@ namespace DT11Taschenrechner
             String del = textBoxAnzeige.Text;
             if (del.Length > 0)
             {
-                textBoxAnzeige.Text = del.Remove(del.Length - 1);
+                char last = del.Last();
+                if (last == ' ')
+                {
+                    textBoxAnzeige.Text = del.Remove(del.Length - 3);
+                }
+                else
+                {
+                    textBoxAnzeige.Text = del.Remove(del.Length - 1);
+                }
+                
             }
         }
 
@@ -106,5 +119,13 @@ namespace DT11Taschenrechner
             textBoxAnzeige.Text = "";
         }
 
+        private void button12_Click(object sender, EventArgs e)
+        {
+            string expression = textBoxAnzeige.Text;
+            double result = Evaluate(expression);
+            textBoxAnzeige.Text = result.ToString();
+            string expression2 = textBoxAnzeige.Text;
+            textBoxAnzeige.Text = expression2.Replace(",", ".");
+        }
     }
 }
