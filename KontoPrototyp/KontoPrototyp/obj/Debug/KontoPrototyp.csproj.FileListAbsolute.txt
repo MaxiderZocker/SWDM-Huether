@@ -7,3 +7,4 @@ C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoProt
 C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.csproj.CoreCompileInputs.cache
 C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.exe
 C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.pdb
+C:\Users\Max Jaekel\source\repos\KontoPrototyp\KontoPrototyp\obj\Debug\KontoPrototyp.Form1.resources

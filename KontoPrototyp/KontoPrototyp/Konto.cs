@@ -8,16 +8,24 @@ namespace KontoPrototyp
 {
     internal class Konto
     {
-        int kontoNr;
-        double saldo;
+        private int kontoNr;
+        private double saldo;
 
         public void setKontoNr(int kontoNr)
         {
             this.kontoNr = kontoNr;
         }
+        public void setSaldo (double saldo)
+        {
+            this.saldo = saldo;
+        }
         public int getKontoNr() 
         { 
             return this.kontoNr; 
+        }
+        public double getSaldo()
+        {
+            return this.saldo;
         }
         public void auszahlen (double betrag)
         {
