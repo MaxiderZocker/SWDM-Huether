@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\winformsappkontoia212024oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|solutionrelative:winformsappkontoia212024oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|g:\\nextcloud\\carsten_lokal\\cprogramme\\winformsappkontoia212024oop\\winformsappkontoia212024oop\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|solutionrelative:winformsappkontoia212024oop\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|g:\\nextcloud\\carsten_lokal\\cprogramme\\winformsappkontoia212024oop\\winformsappkontoia212024oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|solutionrelative:winformsappkontoia212024oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|g:\\nextcloud\\carsten_lokal\\cprogramme\\winformsappkontoia212024oop\\winformsappkontoia212024oop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85265A90-5321-4396-B21C-1E9F4EF44E16}|WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP.csproj|solutionrelative:winformsappkontoia212024oop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Konto.cs",
+              "DocumentMoniker": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Konto.cs",
+              "RelativeDocumentMoniker": "WinFormsAppKontoIA212024OOP\\Konto.cs",
+              "ToolTip": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Konto.cs",
+              "RelativeToolTip": "WinFormsAppKontoIA212024OOP\\Konto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:15:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppKontoIA212024OOP\\Form1.Designer.cs",
+              "ToolTip": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsAppKontoIA212024OOP\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:11:00.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "ToolTip": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:11:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppKontoIA212024OOP\\Form1.cs",
+              "ToolTip": "G:\\Nextcloud\\Carsten_lokal\\CProgramme\\WinFormsAppKontoIA212024OOP\\WinFormsAppKontoIA212024OOP\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "WinFormsAppKontoIA212024OOP\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:10:47.424Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

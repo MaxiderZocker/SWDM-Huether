@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|c:\\users\\max jaekel\\source\\repos\\kontoprototyperweiterung2\\kontoprototyperweiterung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|solutionrelative:kontoprototyperweiterung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\kontoprototyperweiterung2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|solutionrelative:kontoprototyperweiterung2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\kontoprototyperweiterung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|solutionrelative:kontoprototyperweiterung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\kontoprototyperweiterung2\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14199086-A3BE-47F2-8ABF-24F0D86119C3}|KontoPrototypErweiterung2\\KontoPrototypErweiterung2.csproj|solutionrelative:kontoprototyperweiterung2\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Program.cs",
+              "RelativeDocumentMoniker": "KontoPrototypErweiterung2\\Program.cs",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Program.cs",
+              "RelativeToolTip": "KontoPrototypErweiterung2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:25:26.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Form1.cs",
+              "RelativeDocumentMoniker": "KontoPrototypErweiterung2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Form1.cs",
+              "RelativeToolTip": "KontoPrototypErweiterung2\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:23:50.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Konto.cs",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Konto.cs",
+              "RelativeDocumentMoniker": "KontoPrototypErweiterung2\\Konto.cs",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Konto.cs",
+              "RelativeToolTip": "KontoPrototypErweiterung2\\Konto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA7wDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:19:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Form1.cs",
+              "RelativeDocumentMoniker": "KontoPrototypErweiterung2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototypErweiterung2\\KontoPrototypErweiterung2\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "KontoPrototypErweiterung2\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:18:57.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

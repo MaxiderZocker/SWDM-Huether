@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontoPrototypErweiterung2", "KontoPrototypErweiterung2\KontoPrototypErweiterung2.csproj", "{14199086-A3BE-47F2-8ABF-24F0D86119C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14199086-A3BE-47F2-8ABF-24F0D86119C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14199086-A3BE-47F2-8ABF-24F0D86119C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14199086-A3BE-47F2-8ABF-24F0D86119C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14199086-A3BE-47F2-8ABF-24F0D86119C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B6DD0E-E958-4626-A12F-ADB30FD62E3E}
+	EndGlobalSection
+EndGlobal

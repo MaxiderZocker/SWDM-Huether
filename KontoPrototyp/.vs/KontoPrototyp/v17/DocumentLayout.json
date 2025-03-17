@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\kontoprototyp\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|solutionrelative:kontoprototyp\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|c:\\users\\max jaekel\\source\\repos\\kontoprototyp\\kontoprototyp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|solutionrelative:kontoprototyp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\kontoprototyp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|solutionrelative:kontoprototyp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|c:\\users\\max jaekel\\source\\repos\\kontoprototyp\\kontoprototyp\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5E1DA1-FC55-44F9-A9EE-630DC3F53201}|KontoPrototyp\\KontoPrototyp.csproj|solutionrelative:kontoprototyp\\konto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Form1.cs",
-              "RelativeDocumentMoniker": "KontoPrototyp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Form1.cs",
-              "RelativeToolTip": "KontoPrototyp\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAApwCcAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:03:15.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Konto.cs",
               "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Konto.cs",
               "RelativeDocumentMoniker": "KontoPrototyp\\Konto.cs",
               "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Konto.cs",
               "RelativeToolTip": "KontoPrototyp\\Konto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T11:30:12.947Z",
               "EditorCaption": ""
@@ -53,6 +40,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Form1.cs",
+              "RelativeDocumentMoniker": "KontoPrototyp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Form1.cs",
+              "RelativeToolTip": "KontoPrototyp\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:03:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Entwurf]",
               "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\KontoPrototyp\\KontoPrototyp\\Form1.cs",
               "RelativeDocumentMoniker": "KontoPrototyp\\Form1.cs",

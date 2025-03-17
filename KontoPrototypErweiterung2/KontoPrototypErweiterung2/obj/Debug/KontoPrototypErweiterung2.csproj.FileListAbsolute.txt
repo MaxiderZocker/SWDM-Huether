@@ -1,0 +1,10 @@
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\bin\Debug\KontoPrototypErweiterung2.exe.config
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\bin\Debug\KontoPrototypErweiterung2.exe
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\bin\Debug\KontoPrototypErweiterung2.pdb
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.csproj.AssemblyReference.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototyp.Form1.resources
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.Properties.Resources.resources
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.csproj.GenerateResource.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.csproj.CoreCompileInputs.cache
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.exe
+C:\Users\Max Jaekel\source\repos\KontoPrototypErweiterung2\KontoPrototypErweiterung2\obj\Debug\KontoPrototypErweiterung2.pdb
