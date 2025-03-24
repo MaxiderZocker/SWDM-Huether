@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppKontoIA212024OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10ca66b5fda1402579b3790110cdcd395f2e49ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1907c8371a8ea53b37052695af0d8a748c7e1eb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppKontoIA212024OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppKontoIA212024OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

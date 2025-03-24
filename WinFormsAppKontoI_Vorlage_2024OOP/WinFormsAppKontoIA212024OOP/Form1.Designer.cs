@@ -47,6 +47,8 @@
             ladenimportToolStripMenuItem = new ToolStripMenuItem();
             ladenToolStripMenuItem = new ToolStripMenuItem();
             speichernToolStripMenuItem = new ToolStripMenuItem();
+            openFileDialog1 = new OpenFileDialog();
+            saveFileDialog1 = new SaveFileDialog();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -230,6 +232,10 @@
             speichernToolStripMenuItem.Text = "speichern";
             speichernToolStripMenuItem.Click += speichernToolStripMenuItem_Click;
             // 
+            // openFileDialog1
+            // 
+            openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -281,5 +287,7 @@
         private ToolStripMenuItem ladenimportToolStripMenuItem;
         private ToolStripMenuItem ladenToolStripMenuItem;
         private ToolStripMenuItem speichernToolStripMenuItem;
+        private OpenFileDialog openFileDialog1;
+        private SaveFileDialog saveFileDialog1;
     }
 }

@@ -90,7 +90,12 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void ladenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string dateipfad = "konten.txt";
+            string dateipfad;
+            openFileDialog1.FileName = "kunden";
+            openFileDialog1.DefaultExt = "txt";
+            openFileDialog1.ShowDialog();
+            dateipfad = openFileDialog1.FileName;
+
             try
             {
                 using (StreamReader sr = new StreamReader(dateipfad))
@@ -120,7 +125,11 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void speichernToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string dateipfad = "konten.txt";
+            string dateipfad;
+            saveFileDialog1.FileName = "kunden";
+            saveFileDialog1.DefaultExt = "txt";
+            saveFileDialog1.ShowDialog();
+            dateipfad = saveFileDialog1.FileName;
             try
             {
                 using (StreamWriter sw = new StreamWriter(dateipfad))
