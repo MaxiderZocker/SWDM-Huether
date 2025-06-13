@@ -25,7 +25,7 @@ namespace WinFormsAppKontoIA212024OOP
             meinKonto.setName("Mustermann");
             meinKonto.setVorname("Jasmin");
 
-            textBoxKontoNr.Text = meinKonto.getKontoNr().ToString();
+            textBoxKontoNr.Text = meinKonto.getKontoNr().ToString(); //Erzeugung eines Test Kontos
             textBoxSaldo.Text = meinKonto.getSaldo().ToString();
             textBoxName.Text = meinKonto.getName();
             textBoxVorname.Text = meinKonto.getVorname();
@@ -33,8 +33,8 @@ namespace WinFormsAppKontoIA212024OOP
         }
 
         private void buttonLoeschen_Click(object sender, EventArgs e)
-        {
-            textBoxKontoNr.Text = "";
+        { 
+            textBoxKontoNr.Text = ""; //Löschen der Konto und Saldo Nummern
             textBoxSaldo.Text = "";
         }
 
@@ -42,7 +42,7 @@ namespace WinFormsAppKontoIA212024OOP
         {
             try
             {
-                Konto aktuellesKonto = kontenListe[currentKontoIndex];
+                Konto aktuellesKonto = kontenListe[currentKontoIndex]; //Anzeigen des Aktuellen Kontos
                 aktuellesKonto.setKontoNr(int.Parse(textBoxKontoNr.Text));
                 aktuellesKonto.setSaldo(double.Parse(textBoxSaldo.Text));
                 aktuellesKonto.setVorname(textBoxVorname.Text);
@@ -61,13 +61,13 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {
-            // **Neu:** Temporäres Konto-Objekt erstellen
+            //Temporäres Konto-Objekt erstellen
             Konto neuesKonto = new Konto();
 
-            // **Neu:** Daten aus Textboxen in das neue Konto-Objekt speichern
+            //Daten aus Textboxen in das neue Konto-Objekt speichern
             try
             {
-                neuesKonto.setKontoNr(int.Parse(textBoxKontoNr.Text));
+                neuesKonto.setKontoNr(int.Parse(textBoxKontoNr.Text));//Textboxen auslesen und Speichern
                 neuesKonto.setSaldo(double.Parse(textBoxSaldo.Text));
                 neuesKonto.setName(textBoxName.Text);
                 neuesKonto.setVorname(textBoxVorname.Text);
@@ -78,10 +78,10 @@ namespace WinFormsAppKontoIA212024OOP
                 return; // Abbruch, falls Fehler beim Einlesen
             }
 
-            // **Neu:** Neues Konto-Objekt zur Liste hinzufügen
+            //Neues Konto-Objekt zur Liste hinzufügen
             kontenListe.Add(neuesKonto);
 
-            // **Neu:** Index auf das neu hinzugefügte Konto setzen
+            //Index auf das neu hinzugefügte Konto setzen
             currentKontoIndex = kontenListe.Count - 1;
 
             MessageBox.Show("Neues Konto gespeichert!");
@@ -90,7 +90,7 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void ladenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string dateipfad;
+            string dateipfad;//Datei Laden mit Dialog
             openFileDialog1.FileName = "kunden";
             openFileDialog1.DefaultExt = "txt";
             openFileDialog1.ShowDialog();
@@ -100,7 +100,7 @@ namespace WinFormsAppKontoIA212024OOP
             {
                 using (StreamReader sr = new StreamReader(dateipfad))
                 {
-                    int zaehler;
+                    int zaehler;//Einzelne objekte pro fileline
                     zaehler = int.Parse(sr.ReadLine());
                     for (var i = 0; i < zaehler; i++)
                     {
@@ -125,7 +125,7 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void speichernToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string dateipfad;
+            string dateipfad;//Datei Speichern mit Dateidialog
             saveFileDialog1.FileName = "kunden";
             saveFileDialog1.DefaultExt = "txt";
             saveFileDialog1.ShowDialog();
@@ -137,7 +137,7 @@ namespace WinFormsAppKontoIA212024OOP
                     sw.WriteLine(kontenListe.Count); //Anzahl der Konten
                     foreach (var konto in kontenListe)
                     {
-                        sw.WriteLine(konto.getVorname());
+                        sw.WriteLine(konto.getVorname());//Ein Objekt pro Line
                         sw.WriteLine(konto.getName());
                         sw.WriteLine(konto.getKontoNr().ToString());
                         sw.WriteLine(konto.getSaldo().ToString());
@@ -155,7 +155,7 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void UpdateTextBoxesFromKonto()
         {
-            // **Neu:** Anzeigen des aktuellen Kontos aus der Liste, falls vorhanden
+            //Anzeigen des aktuellen Kontos aus der Liste, falls vorhanden
             if (currentKontoIndex >= 0 && currentKontoIndex < kontenListe.Count)
             {
                 Konto aktuellesKonto = kontenListe[currentKontoIndex];
@@ -166,14 +166,14 @@ namespace WinFormsAppKontoIA212024OOP
             }
             else
             {
-                // **Neu:** Leere Textboxen, wenn kein Konto ausgewählt ist (z.B. am Anfang)
+                //Leere Textboxen, wenn kein Konto ausgewählt ist (z.B. am Anfang)
                 buttonLoeschen_Click(this, EventArgs.Empty); // Leert die Textboxen
             }
         }
 
         private void buttonForward_Click(object sender, EventArgs e)
         {
-            // **Neu:** Vor zum nächsten Konto in der Liste
+            //Vor zum nächsten Konto in der Liste
             if (kontenListe.Count == 0)
             {
                 MessageBox.Show("Keine Konten vorhanden.");
@@ -193,7 +193,7 @@ namespace WinFormsAppKontoIA212024OOP
 
         private void buttonBack_Click(object sender, EventArgs e)
         {
-            // **Neu:** Zurück zum vorherigen Konto in der Liste
+            //Zurück zum vorherigen Konto in der Liste
             if (kontenListe.Count == 0)
             {
                 MessageBox.Show("Keine Konten vorhanden.");

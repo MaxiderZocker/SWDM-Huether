@@ -1,0 +1,15 @@
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\bin\Debug\net8.0\Koerper2d.exe
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\bin\Debug\net8.0\Koerper2d.deps.json
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\bin\Debug\net8.0\Koerper2d.runtimeconfig.json
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\bin\Debug\net8.0\Koerper2d.dll
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\bin\Debug\net8.0\Koerper2d.pdb
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.AssemblyInfoInputs.cache
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.AssemblyInfo.cs
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.csproj.CoreCompileInputs.cache
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.sourcelink.json
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.dll
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\refint\Koerper2d.dll
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.pdb
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\Koerper2d.genruntimeconfig.cache
+C:\Users\Max Jaekel\source\repos\Koerper2d\Koerper2d\obj\Debug\net8.0\ref\Koerper2d.dll
