@@ -1,0 +1,52 @@
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.exe
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.deps.json
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.runtimeconfig.json
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Form1.resources
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Properties.Resources.resources
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.GenerateResource.cache
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfoInputs.cache
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfo.cs
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.CoreCompileInputs.cache
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\refint\WinFormsAppRennwagen.dll
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.genruntimeconfig.cache
+C:\Users\carst\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\ref\WinFormsAppRennwagen.dll
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.exe
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.deps.json
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.runtimeconfig.json
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Form1.resources
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Properties.Resources.resources
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.GenerateResource.cache
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.GeneratedMSBuildEditorConfig.editorconfig
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfoInputs.cache
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfo.cs
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.CoreCompileInputs.cache
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\refint\WinFormsAppRennwagen.dll
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.genruntimeconfig.cache
+G:\Nextcloud\Carsten_lokal\CProgramme\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\ref\WinFormsAppRennwagen.dll
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.exe
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.deps.json
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.runtimeconfig.json
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\bin\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Form1.resources
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.Properties.Resources.resources
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.GenerateResource.cache
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfoInputs.cache
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.AssemblyInfo.cs
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.csproj.CoreCompileInputs.cache
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.sourcelink.json
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.dll
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\refint\WinFormsAppRennwagen.dll
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.pdb
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\WinFormsAppRennwagen.genruntimeconfig.cache
+C:\Users\Max Jaekel\source\repos\WinFormsAppRennwagen\WinFormsAppRennwagen\obj\Debug\net8.0-windows\ref\WinFormsAppRennwagen.dll
