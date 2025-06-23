@@ -14,6 +14,9 @@ namespace WinFormsAppRennwagen
         private string farbe;
         private bool aktiv;
         Random rnd;
+
+        private bool bVerfuegbar = true;
+        private int bAktiv = 0;
         
         //Rot Y=500; Grün Y=650; Blau  Y=800
         public Auto(int ypos, string farbe) 
@@ -22,6 +25,7 @@ namespace WinFormsAppRennwagen
             this.farbe = farbe; 
             rnd = new Random();
         }
+        #region Setter
         public void setXpos(int xpos) 
         { 
             this.xpos=xpos;
@@ -30,6 +34,8 @@ namespace WinFormsAppRennwagen
         { 
             this.ypos=ypos; 
         }
+        #endregion
+        #region Getter
         public int getYpos()
         {
             return ypos;
@@ -42,11 +48,52 @@ namespace WinFormsAppRennwagen
         {
             return this.farbe;
         }
+        #endregion
 
-        public void newPositon()
+        #region Update-Methoden
+        public bool newPositon()
         {
-            //this.xpos += 1;
-            this.xpos += rnd.Next(1, 30);
+            int bewegung = rnd.Next(1, 30);
+            bool bVerbraucht = false;
+
+            if(bAktiv > 0)
+            {
+                bewegung *= 4;
+                if(bewegung <= 15)
+                {
+                    bewegung = 15;
+                }
+
+                if(bAktiv == 1)
+                {
+
+                    bVerbraucht = true;
+                }
+                bAktiv -= 1;
+            }
+            this.xpos += bewegung;
+            return bVerbraucht;
         }
+
+        public void AktiviereBoost()
+        {
+            if (bVerfuegbar)
+            {
+                bAktiv = 5;
+                bVerfuegbar = false;
+            }
+        }
+
+        public bool IstBoostVerfuegbar()
+        {
+            return this.bVerfuegbar;
+        }
+
+        public void ResetBoost()
+        {
+            bVerfuegbar = true;
+            bAktiv = 0;
+        }
+        #endregion
     }
 }

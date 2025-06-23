@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppRennwagen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5657dbe175070988e971eb50746d0a7b877827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a071fe0b1649374ae611b34fe1c132a5395f872")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppRennwagen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppRennwagen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

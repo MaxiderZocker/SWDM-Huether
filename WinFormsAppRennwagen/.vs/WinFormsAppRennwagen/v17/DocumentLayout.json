@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|c:\\users\\max jaekel\\source\\repos\\winformsapprennwagen\\winformsapprennwagen\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|solutionrelative:winformsapprennwagen\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|c:\\users\\max jaekel\\source\\repos\\winformsapprennwagen\\winformsapprennwagen\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|solutionrelative:winformsapprennwagen\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,11 +15,7 @@
       "RelativeMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|solutionrelative:winformsapprennwagen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|c:\\users\\max jaekel\\source\\repos\\winformsapprennwagen\\winformsapprennwagen\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|solutionrelative:winformsapprennwagen\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|c:\\users\\max jaekel\\source\\repos\\winformsapprennwagen\\winformsapprennwagen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\winformsapprennwagen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B1FEA98-C9D2-4FB1-823D-CD7E39830139}|WinFormsAppRennwagen\\WinFormsAppRennwagen.csproj|solutionrelative:winformsapprennwagen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -47,39 +47,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsAppRennwagen\\Form1.cs",
               "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Form1.cs",
               "RelativeToolTip": "WinFormsAppRennwagen\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4AAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:52:36.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Controller.cs",
               "RelativeDocumentMoniker": "WinFormsAppRennwagen\\Controller.cs",
               "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Controller.cs",
               "RelativeToolTip": "WinFormsAppRennwagen\\Controller.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wD0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwD0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T08:29:26.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Auto.cs",
               "RelativeDocumentMoniker": "WinFormsAppRennwagen\\Auto.cs",
               "ToolTip": "C:\\Users\\Max Jaekel\\source\\repos\\WinFormsAppRennwagen\\WinFormsAppRennwagen\\Auto.cs",
               "RelativeToolTip": "WinFormsAppRennwagen\\Auto.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T08:03:20.616Z",
               "EditorCaption": ""
